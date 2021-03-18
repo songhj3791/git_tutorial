@@ -19,7 +19,7 @@ $ ls -al
 
 ![git init result](/gitInit.png)
 
-
+---
 ## git add
 
 ```bash
@@ -32,6 +32,16 @@ $ git status
 
 As you can see there is new file on git server which is myFirstGit.md
 
-asdlkjasdlkfj
+---
+## git commit  
+
+```bash
+# After revised your code, it needs to be commited to make it confirmed.
+$ git commit
+
+# You can also make comment to refer the updated version
+# You can see your updated history by git log command
+$ git log
+
 
 
