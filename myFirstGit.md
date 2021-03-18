@@ -42,6 +42,10 @@ $ git commit
 # You can also make comment to refer the updated version
 # You can see your updated history by git log command
 $ git log
+```
+
+![git commit](gitcommit.png)
+![git log](gitlog.png)
 
 
 
