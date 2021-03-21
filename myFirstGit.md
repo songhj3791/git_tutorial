@@ -109,8 +109,15 @@ $ git remote -v
 >After creating remote link, you can push your code to github server by using git remote command.
 
 ```bash
-$ git 
+# push your current branch file to remote link
+$ git push <branch> <remote link>
 ```
+
+![git push](gitpush.png)
+
+Now you could see your push request in your repository
+
+
 
 
 
